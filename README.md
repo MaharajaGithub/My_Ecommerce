@@ -49,3 +49,8 @@ Step 6: Run Development server
 Now you can modify the code and data
 
 Make better design to make your project looks more good. 
+
+
+And the app depoyment is done by heroku 
+
+link is https://maha-ecommerce.herokuapp.com/
