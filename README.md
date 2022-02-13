@@ -51,6 +51,10 @@ Now you can modify the code and data
 Make better design to make your project looks more good. 
 
 
-And the app depoyment is done by heroku 
+And the app depoyment is done in heroku 
 
 link is https://maha-ecommerce.herokuapp.com/
+
+And it has also deployed in AWS Cloud for learning purpose :
+
+IP is 13.232.122.2
