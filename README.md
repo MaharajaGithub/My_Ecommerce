@@ -53,7 +53,7 @@ Make better design to make your project looks more good.
 
 And the app depoyment is done in heroku 
 
-link is https://maha-ecommerce.herokuapp.com/
+link is https://maha-ecom.herokuapp.com/
 
 And it has also deployed in AWS Cloud for learning purpose :
 
